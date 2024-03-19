@@ -14,7 +14,7 @@ void input()
     cout << "Masukan Jumlah Mie = ";
     cin >> nMie;
     cout >> "Masukan Jumlah Air Mineral = ";
-    cin >> nAir;
+    cin << nAir;
 }
 
 int hitungHarga()
